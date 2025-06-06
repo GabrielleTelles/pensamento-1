@@ -2,4 +2,7 @@ body {
     color:white;
     background: black;
 }
-border: solid 1px;
+
+header {
+    border: solid 2px white;
+}
