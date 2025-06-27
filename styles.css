@@ -1,5 +1,5 @@
 body {
-    color:white;
+    color: black;
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -13,7 +13,7 @@ header {
 }
 
 section {
-    background: yellow;
+    background: red;
     padding-bottom: 80px;
     padding-top: 80px; 
     display: flex;
